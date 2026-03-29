@@ -1,2 +1,2 @@
 FROM ubuntu:latest
-RUN dnf install nginx -y
+RUN yum install nginx -y
